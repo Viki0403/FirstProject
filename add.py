@@ -1,5 +1,5 @@
 a=1100
 b=21
-c=a+b
+c=a*b
 print(c)
 print('hello world')
